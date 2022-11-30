@@ -1,1 +1,2 @@
-#!/bin/bash
+
+console.log("hello world");
